@@ -1,0 +1,9 @@
+html{
+    background-image: url("./taustapilt4.jpg");
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+
+h1 {
+    text-align: center;
+}
