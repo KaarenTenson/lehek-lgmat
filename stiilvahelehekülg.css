@@ -1,0 +1,18 @@
+html{
+    background-image: url("./brvahesite.jpg");
+    background-size:     cover;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+      
+}
+h1{
+    text-align: center;
+}
+.ees{
+    position: absolute;
+    left: 60px;
+}
+.taga{
+    position: absolute;
+    left: 150px;
+
+}
