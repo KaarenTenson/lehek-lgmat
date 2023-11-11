@@ -16,3 +16,10 @@ h1{
     left: 150px;
 
 }
+.järgmine{
+    position: absolute;
+    bottom: 50px;
+    right: 40px;
+    font-size: large;
+    
+}
