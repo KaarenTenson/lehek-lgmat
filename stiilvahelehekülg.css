@@ -11,10 +11,12 @@ h2{
     text-align: center;
 }
 .ees{
+    background-color: aquamarine;
     position: relative;
     left: 60px;
 }
 .taga{
+    background-color: azure;
     position: relative;
     left: 150px;
 
@@ -39,4 +41,7 @@ h2{
     right: 60px;
     font-size: large;
     
+}
+.br-taust{
+    background-color: black;
 }
