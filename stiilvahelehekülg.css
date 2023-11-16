@@ -45,3 +45,8 @@ h2{
 .br-taust{
     background-color: black;
 }
+.video{
+    font-size: large;
+    position: relative;
+    left: 60px;
+}
