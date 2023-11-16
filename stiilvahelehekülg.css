@@ -7,12 +7,15 @@ html{
 h1{
     text-align: center;
 }
+h2{
+    text-align: center;
+}
 .ees{
-    position: absolute;
+    position: relative;
     left: 60px;
 }
 .taga{
-    position: absolute;
+    position: relative;
     left: 150px;
 
 }
