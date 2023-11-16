@@ -23,24 +23,24 @@ h2{
 }
 .järgmine{
     position: absolute;
-    bottom: 50px;
-    right: 40px;
+    bottom: 3%;
+    left: 80%;
     background-color: #ecf;
     font-size: large;
     
 }
 .eelmine{
     position: absolute;
-    bottom: 50px;
-    left: 40px;
+    bottom: 3%;
+    left: 10%;
     background-color: #dff;
     font-size: large;
     
 }
 .eelmine2{
     position: absolute;
-    bottom: 20px;
-    right: 60px;
+    bottom: 10%;
+    left: 55%;
     background-color: #dff;
     font-size: large;
     
@@ -51,5 +51,5 @@ h2{
 .video{
     font-size: large;
     position: relative;
-    left: 60px;
+    left: 5%;
 }
