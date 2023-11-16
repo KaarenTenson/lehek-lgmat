@@ -22,25 +22,23 @@ h2{
 
 }
 .järgmine{
-    position: absolute;
-    bottom: 3%;
+    position: relative;
     left: 80%;
     background-color: #ecf;
     font-size: large;
     
 }
 .eelmine{
-    position: absolute;
-    bottom: 3%;
-    left: 10%;
+    position: relative;
+    left: 20%;
     background-color: #dff;
     font-size: large;
     
 }
 .eelmine2{
-    position: absolute;
-    bottom: 10%;
-    left: 55%;
+    position: relative;
+    top: 50%;
+    left: 50%;
     background-color: #dff;
     font-size: large;
     
