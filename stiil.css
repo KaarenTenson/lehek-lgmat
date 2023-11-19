@@ -9,7 +9,19 @@ h1{
     
 }
 h2{
-    position: absolute;
+    position: relative;
+    left: 65px;
+}
+h3{
+    position: relative;
+    left: 65px;
+}
+h4{
+    position: relative;
+    left: 65px;
+}
+h5{
+    position: relative;
     left: 65px;
 }
 div{
