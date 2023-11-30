@@ -1,5 +1,5 @@
 html{
-    background-image: url("./taustapilt4.jpg");
+    background-image: url("./pildid/taustapilt4.jpg");
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: darkblue;
       
@@ -9,8 +9,20 @@ h1{
     
 }
 h2{
-    position: absolute;
+    position: relative;
     left: 65px;
+}
+h3{
+    position: relative;
+    left: 65px;
+}
+h4{
+    position: relative;
+    left: 80px;
+}
+h5{
+    position: relative;
+    left: 100px;
 }
 div{
     top: 150px;

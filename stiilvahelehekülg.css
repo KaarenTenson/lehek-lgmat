@@ -1,0 +1,72 @@
+html{
+    background-image: url("./pildid/brvahesite.jpg");
+    background-size:     cover;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+      
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.ees{
+    background-color: aquamarine;
+    position: relative;
+    left: 60px;
+}
+.taga{
+    background-color: azure;
+    position: relative;
+    left: 150px;
+
+}
+.järgmine{
+    position: relative;
+    left: 80%;
+    background-color: #ecf;
+    font-size: large;
+    
+}
+.eelmine{
+    position: relative;
+    left: 20%;
+    background-color: #dff;
+    font-size: large;
+    
+}
+.eelmine2{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    background-color: #dff;
+    font-size: large;
+    
+}
+.järgmine2{
+    position: relative;
+    top: 50%;
+    left: 80%;
+    background-color: #dff;
+    font-size: large;
+    
+}
+.br-taust{
+    background-color: black;
+}
+.video{
+    font-size: large;
+    position: relative;
+    left: 5%;
+}
+.esileht{
+    width: 175px;
+    height: 70px;
+    font-size: larger;
+    background-color: aqua;
+}
+iframe{
+    position: relative;
+    left: 6%;
+
+}
